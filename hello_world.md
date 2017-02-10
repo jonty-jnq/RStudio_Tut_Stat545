@@ -8,7 +8,7 @@ This is my Hello World from R Markdown.
 Script
 ------
 
-Here's an R "chunk"
+Here's an R "chunk".
 
 ``` r
  n <- 50
@@ -24,3 +24,5 @@ Here's an R "chunk"
 ```
 
 ![](hello_world_files/figure-markdown_github/unnamed-chunk-1-1.png)
+
+Here's a line at the bottom

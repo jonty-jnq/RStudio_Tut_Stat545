@@ -16,7 +16,7 @@ This is my Hello World from R Markdown.
 
 ## Script
 
-Here's an R "chunk"
+Here's an R "chunk". 
 
 ```{r}
  n <- 50
@@ -31,3 +31,4 @@ Here's an R "chunk"
  abline(a,b, col = "purple")
 ```
 
+Here's a line at the bottom

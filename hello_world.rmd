@@ -1,8 +1,15 @@
 ---
 title: "Hello World (in R Markdown)"
 author: "Jonty-JNQ"
-date: "February 10, 2017"
-output: html_document
+date: "'r format(Sys.Date())'"
+## output: html_document:
+    ## keep_md: true
+    
+    ## ^^ keeping the intermediate md file is useful for GitHub. Inspect after committing and you'll see why. 
+    
+    ## ALTERNATIVELY (and this is what you want)
+    
+output: github_document 
 ---
 
 ```{r setup, include=FALSE}

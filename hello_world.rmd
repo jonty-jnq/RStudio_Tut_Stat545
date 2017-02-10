@@ -31,4 +31,4 @@ Here's an R "chunk".
  abline(a,b, col = "purple")
 ```
 
-Here's a line at the bottom
+Here's a line at the bottom.
